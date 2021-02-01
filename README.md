@@ -1,4 +1,4 @@
-# NewProject
+# Random Number Generator 
 
 Random Generator. 
 
